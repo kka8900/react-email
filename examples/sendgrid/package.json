@@ -21,7 +21,7 @@
     "format": "prettier --write \"**/*.{ts,tsx}\""
   },
   "dependencies": {
-    "@react-email/button": "*",
+    "@react-email/button": "0.0.4",
     "@react-email/html": "*",
     "@react-email/render": "*",
     "@sendgrid/mail": "7.7.0",

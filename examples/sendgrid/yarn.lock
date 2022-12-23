@@ -94,10 +94,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@react-email/button@*":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.3.tgz#6488b18698bf5bbac6fdca7d8023b475ba775bc3"
-  integrity sha512-AgwK1ebdVZy42gVyrBmUTHSb171Ac3rbFxmTi0G/qwJnAnvxbGLzFEKeqxXMVPrBqo/MYwLF+qxThc+mZgN7Dw==
+"@react-email/button@0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.4.tgz#a116860806b535386d241ff0dc7059d00d547bd2"
+  integrity sha512-6leTjsbf37fBb54AKSTOp1lzDsEFgJ/RdoBAy9MhuiciOqnUhJ5BRHZd4LJkt46FsBrILs8Ob50Y4quzV4kP0Q==
   dependencies:
     react "18.2.0"
 
