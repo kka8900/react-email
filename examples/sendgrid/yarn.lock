@@ -101,10 +101,10 @@
   dependencies:
     react "18.2.0"
 
-"@react-email/html@*":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.2.tgz#a597569b3772630e346213d766bc310a88674291"
-  integrity sha512-j6r7PdBUuH0G5OhiIskCtDerdowkiOia8nzAMbKt2S3vkRkgIIULIZwWA1mEjHXyTP5ZAOeCaqFTILt4Wn1seA==
+"@react-email/html@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.3.tgz#05581193ce8acd68a03739ba9101fade601feba2"
+  integrity sha512-NtHzGq38StO95W/rASYy+qdzFEpqUDmEe5RMygxeaV/TTZbtLLRqycwk5B/dxq4DfreZE/GL0vAg6u6sMVLTPA==
 
 "@react-email/render@*":
   version "0.0.2"
