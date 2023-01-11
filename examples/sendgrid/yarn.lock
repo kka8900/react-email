@@ -106,10 +106,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.2.tgz#a597569b3772630e346213d766bc310a88674291"
   integrity sha512-j6r7PdBUuH0G5OhiIskCtDerdowkiOia8nzAMbKt2S3vkRkgIIULIZwWA1mEjHXyTP5ZAOeCaqFTILt4Wn1seA==
 
-"@react-email/render@*":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-0.0.2.tgz#b59e7803ea3a8efa0dac94d373ba3014c1456997"
-  integrity sha512-fSkIluX6qlz/njpZ3Dkkx2XJE9C+7TUZBzB1AynXWIJM4tS6bDcdIZlEb88ErAO15RcS6yglWrgtSbuTyO0ZAQ==
+"@react-email/render@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-0.0.3.tgz#12532408bac9acd2a46b6f5b3c1639c29a43ed6e"
+  integrity sha512-+4eOrLGdTCJjoJU3PunekErjo3PFnhSDFjVINBHrfJT+1wlVdhWfDo7hFdzXJx/JOOYqmnZTilU/umGLdRumKQ==
   dependencies:
     pretty "2.0.0"
     react-dom "18.2.0"
