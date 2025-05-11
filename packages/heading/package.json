@@ -33,7 +33,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@radix-ui/react-slot": "1.0.0",
+    "@radix-ui/react-slot": "1.1.0",
     "react": "18.2.0",
     "utils": "*"
   },
