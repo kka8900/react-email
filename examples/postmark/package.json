@@ -23,7 +23,7 @@
   "dependencies": {
     "@react-email/button": "*",
     "@react-email/html": "*",
-    "@react-email/render": "*",
+    "@react-email/render": "0.0.11",
     "postmark": "3.0.14",
     "react": "18.2.0"
   },
